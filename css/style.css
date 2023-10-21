@@ -1,0 +1,77 @@
+body {
+    background-image: linear-gradient(to right, #2E97A7, rgb(5, 48, 128));
+
+}
+
+#div-mae {
+    background-color: white;
+
+
+    border: 1px solid white;
+    border-radius: 10%;
+
+    text-align: center;
+
+    font-size: large;
+
+    margin: 3% 32%;
+    padding: 2%;
+
+    
+    
+}
+
+#h3 {
+    font-size: xx-large;
+    font-family: cursive;
+    color: #454545;
+}
+
+.input {
+
+    color: #454545;
+    caret-color: #D0D4CA;
+
+    font-size: larger;
+    font-family: cursive;
+
+    border: none;
+    border-bottom: 1px solid #D0D4CA;
+
+    padding: 0%;
+    margin: 6%;
+
+}
+
+.input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+#botao {
+
+    padding: 4% 16%;
+    margin: 5% 1% 1% 1%;
+
+    border: 1px solid white;
+    border-radius: 30px;
+
+    background-color: #2E97A7;
+    color: white;
+
+    font-size: large;
+    font-family: cursive;
+
+}
+
+#botao:hover {
+    padding: 5% 18%;
+    margin: 4% 0% 0% 0%; 
+
+    border-radius: 35px;
+}
+
+#botao:focus {
+    background-color: #D0D4CA;
+    color: #2E97A7;
+}
